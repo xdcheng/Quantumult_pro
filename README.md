@@ -1,5 +1,8 @@
 ### 简介
 
-该配置转自https://github.com/ConnersHua/Profiles
-
 修改自用配置
+
+文件地址
+
+https://raw.githubusercontent.com/xdcheng/Quantumult_pro/master/QuantumultPro.conf
+https://raw.githubusercontent.com/xdcheng/Quantumult_pro/master/QuantumultRejection.conf
