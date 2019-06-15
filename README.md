@@ -6,3 +6,4 @@
 
 https://raw.githubusercontent.com/xdcheng/Quantumult_pro/master/QuantumultPro.conf
 https://raw.githubusercontent.com/xdcheng/Quantumult_pro/master/QuantumultRejection.conf
+https://raw.githubusercontent.com/xdcheng/Quantumult_pro/master/i2Ray.conf
